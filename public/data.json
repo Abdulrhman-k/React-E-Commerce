@@ -1,0 +1,77 @@
+
+{
+      "products":[
+        {
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "b8058ff2-051f-47ca-95e0-70f1c0766788.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "qui est esse",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "716055da-0906-4c15-9926-a727b17c17a6.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "174c15f0-3c44-41b4-a225-4899c2f9d1c1.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "eum et est occaecati",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "x4.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "nesciunt quas odio",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "x5.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "dolorem eum magni eos aperiam quia",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "174c15f0-3c44-41b4-a225-4899c2f9d1c1.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "magnam facilis autem",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "b8058ff2-051f-47ca-95e0-70f1c0766788.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "dolorem dolore est ipsam",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "x8.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "nesciunt iure omnis dolorem tempora et accusantium",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "x8.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "optio molestias id quia eum",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "link" : "/Products/${product.id}",
+      "img" : "x8.jpeg"
+    
+    }
+]
+}
+
